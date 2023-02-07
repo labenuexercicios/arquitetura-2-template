@@ -1,6 +1,5 @@
 import express from 'express'
 import cors from 'cors'
-import { UserController } from './controller/UserController'
 import { AccountController } from './controller/AccountController'
 import { useRouter } from './router/useRouter'
 
